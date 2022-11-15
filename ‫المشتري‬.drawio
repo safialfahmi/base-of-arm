@@ -1,145 +1,161 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T07:18:09.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="QDlrjKKCMh96YYLxe4WK" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T12:37:38.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="z_YyjYe9Qd7IifQXKx8R" version="20.5.3" type="github">
   <diagram id="41JvZKETDgODBDWOF_u7" name="Page-1">
-    <mxGraphModel dx="827" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-1" value="تطبيق نفاذ" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=17;fillColor=#9CD67A;strokeColor=#82b366;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="100" height="660" as="geometry" />
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-24" value="تطبيق نفاذ" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=17;fillColor=#9CD67A;strokeColor=#82b366;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="100" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-2" value="ادخال الرمز الشخصي “pin” " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.5;entryY=0.748;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="95ry9qHJcQ8EmJLr2vp6-1" target="95ry9qHJcQ8EmJLr2vp6-1">
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-25" value="(PIN) ادخال الرمز الشخصي " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.5;entryY=0.748;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="TH_UqD1B5SsVqjHKoMvo-24" target="TH_UqD1B5SsVqjHKoMvo-24">
           <mxGeometry x="-0.5" y="-4" relative="1" as="geometry">
             <mxPoint x="450" y="494" as="sourcePoint" />
             <mxPoint x="50.00076923076929" y="460.0000000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-3" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="95ry9qHJcQ8EmJLr2vp6-1">
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="TH_UqD1B5SsVqjHKoMvo-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-20" y="600" as="sourcePoint" />
             <mxPoint x="40" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-21" value="التحقق من السمات الحيويه" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="95ry9qHJcQ8EmJLr2vp6-1">
-          <mxGeometry x="-50" y="570" width="110" height="30" as="geometry" />
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-27" value="التحقق من هوية المستفيد" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;exitX=0.486;exitY=0.164;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="TH_UqD1B5SsVqjHKoMvo-24" source="TH_UqD1B5SsVqjHKoMvo-28">
+          <mxGeometry x="0.0909" relative="1" as="geometry">
+            <mxPoint x="270" y="109.99999999999994" as="sourcePoint" />
+            <mxPoint x="50" y="109.99999999999994" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-4" value="ناجز" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#000099;fontSize=17;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="300" y="80" width="100" height="680" as="geometry" />
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-28" value="الافراغ العقاري&#xa; الالكتروني" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#000099;fontSize=12;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="90" width="100" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-5" value="قبول الطلب" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=16;" edge="1" parent="95ry9qHJcQ8EmJLr2vp6-4">
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-29" value="قبول الطلب" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=16;" edge="1" parent="TH_UqD1B5SsVqjHKoMvo-28">
           <mxGeometry x="-0.499" relative="1" as="geometry">
             <mxPoint x="270.27" y="340.0000000000001" as="sourcePoint" />
             <mxPoint x="-129.99923076923073" y="340.0000000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-6" value="" style="shape=actor;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="550" y="80" width="40" height="40" as="geometry" />
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-30" value="" style="shape=actor;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-7" value="" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.5;exitY=1;shadow=0;strokeWidth=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="95ry9qHJcQ8EmJLr2vp6-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="770" as="targetPoint" />
-            <mxPoint x="590" y="210" as="sourcePoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-8" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1" source="95ry9qHJcQ8EmJLr2vp6-1">
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-31" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;" edge="1" parent="1" source="TH_UqD1B5SsVqjHKoMvo-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="310" as="sourcePoint" />
-            <mxPoint x="170" y="280" as="targetPoint" />
+            <mxPoint x="320" y="320" as="sourcePoint" />
+            <mxPoint x="180" y="290" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-9" value="الدخول الى بوابة ناجز واختيار طلباتي" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;" edge="1" parent="1" target="95ry9qHJcQ8EmJLr2vp6-4">
-          <mxGeometry x="0.0303" y="-10" relative="1" as="geometry">
-            <mxPoint x="560" y="200" as="sourcePoint" />
-            <mxPoint x="380" y="200" as="targetPoint" />
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-32" value="تسجيل دخول " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;" edge="1" parent="1">
+          <mxGeometry x="0.0909" relative="1" as="geometry">
+            <mxPoint x="580" y="170" as="sourcePoint" />
+            <mxPoint x="360" y="170" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-10" value="ادخال رقم طلب نفاذ " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.52;entryY=0.664;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" target="95ry9qHJcQ8EmJLr2vp6-1">
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-33" value="ادخال رقم طلب نفاذ " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.52;entryY=0.664;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" target="TH_UqD1B5SsVqjHKoMvo-24">
           <mxGeometry x="-0.4975" y="-1" relative="1" as="geometry">
-            <mxPoint x="570" y="520" as="sourcePoint" />
-            <mxPoint x="260" y="500" as="targetPoint" />
+            <mxPoint x="580" y="530" as="sourcePoint" />
+            <mxPoint x="270" y="510" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-11" value="اختيار العقار المراد افراغه" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;" edge="1" parent="1" target="95ry9qHJcQ8EmJLr2vp6-4">
-          <mxGeometry x="0.0267" y="-10" relative="1" as="geometry">
-            <mxPoint x="560" y="260" as="sourcePoint" />
-            <mxPoint x="385" y="260" as="targetPoint" />
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-34" value="ا" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=12;entryX=0.513;entryY=0.279;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TH_UqD1B5SsVqjHKoMvo-28">
+          <mxGeometry x="0.0467" relative="1" as="geometry">
+            <mxPoint x="580" y="280" as="sourcePoint" />
+            <mxPoint x="395" y="270" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-12" value="عرض رقم طلب نفاذ" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;" edge="1" parent="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint x="350" y="320" as="sourcePoint" />
-            <mxPoint x="570" y="320" as="targetPoint" />
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-35" value="عرض رقم طلب نفاذ" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="580" y="330" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="500" y="320" />
+              <mxPoint x="510" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-13" value="ارسال طلب افراغ عقاري" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;" edge="1" parent="1">
-          <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
-            <mxPoint x="170" y="370" as="sourcePoint" />
-            <mxPoint x="570" y="370" as="targetPoint" />
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="360" y="370" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-14" value="عرض تعليمات التقاط السمات الحيويه" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=13;" edge="1" parent="1">
-          <mxGeometry x="-0.55" relative="1" as="geometry">
-            <mxPoint x="170" y="630" as="sourcePoint" />
-            <mxPoint x="570" y="630" as="targetPoint" />
-            <mxPoint as="offset" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-15" value="التقاط السمات الحيويه" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;" edge="1" parent="1">
-          <mxGeometry x="-0.499" relative="1" as="geometry">
-            <mxPoint x="570.27" y="680" as="sourcePoint" />
-            <mxPoint x="170.00076923076927" y="680" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-16" value="اتمام عملية التحقق وارسال الطلب" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.53;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" edge="1" parent="1" source="95ry9qHJcQ8EmJLr2vp6-1" target="95ry9qHJcQ8EmJLr2vp6-4">
-          <mxGeometry x="-0.1396" relative="1" as="geometry">
-            <mxPoint x="170" y="640" as="sourcePoint" />
-            <mxPoint x="360" y="718" as="targetPoint" />
-            <mxPoint as="offset" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-17" value="اكمال اجراءات شراء العقار" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" target="95ry9qHJcQ8EmJLr2vp6-4">
-          <mxGeometry x="0.0907" y="-2" relative="1" as="geometry">
-            <mxPoint x="570" y="753" as="sourcePoint" />
-            <mxPoint x="350" y="800" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-18" value="عرض صفحة اختيار رقم الطلب الصحيح " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.51;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=13;" edge="1" parent="1" source="95ry9qHJcQ8EmJLr2vp6-1">
-          <mxGeometry x="-0.5539" y="5" relative="1" as="geometry">
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-36" value="عرض رسالة&#xa;&quot; لديك طلب افراغ عقاري + رقم العقار&quot;" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=12;" edge="1" parent="1">
+          <mxGeometry x="-0.55" y="10" relative="1" as="geometry">
             <mxPoint x="180" y="380" as="sourcePoint" />
-            <mxPoint x="570" y="465" as="targetPoint" />
+            <mxPoint x="580" y="380" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="370" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-37" value="عرض تعليمات التقاط السمات الحيويه" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=13;" edge="1" parent="1">
+          <mxGeometry x="-0.55" relative="1" as="geometry">
+            <mxPoint x="180" y="640" as="sourcePoint" />
+            <mxPoint x="580" y="640" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-19" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="680" as="sourcePoint" />
-            <mxPoint x="100" y="710" as="targetPoint" />
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-38" value="التقاط السمات الحيويه" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;" edge="1" parent="1">
+          <mxGeometry x="-0.499" relative="1" as="geometry">
+            <mxPoint x="580.27" y="690" as="sourcePoint" />
+            <mxPoint x="180.00076923076927" y="690" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="95ry9qHJcQ8EmJLr2vp6-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="710" as="sourcePoint" />
-            <mxPoint x="160" y="710" as="targetPoint" />
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-39" value="اتمام عملية التحقق وارسال الطلب" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.53;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" edge="1" parent="1" source="TH_UqD1B5SsVqjHKoMvo-24" target="TH_UqD1B5SsVqjHKoMvo-28">
+          <mxGeometry x="-0.1396" relative="1" as="geometry">
+            <mxPoint x="180" y="650" as="sourcePoint" />
+            <mxPoint x="370" y="728" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-40" value="اكمال اجراءات الافراغ العقاري " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" target="TH_UqD1B5SsVqjHKoMvo-28">
+          <mxGeometry x="0.0907" y="-2" relative="1" as="geometry">
+            <mxPoint x="580" y="763" as="sourcePoint" />
+            <mxPoint x="360" y="810" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-41" value="عرض صفحة اختيار رقم الطلب الصحيح " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.51;exitY=0.583;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=13;" edge="1" parent="1" source="TH_UqD1B5SsVqjHKoMvo-24">
+          <mxGeometry x="-0.5539" y="5" relative="1" as="geometry">
+            <mxPoint x="190" y="390" as="sourcePoint" />
+            <mxPoint x="580" y="475" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-42" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="690" as="sourcePoint" />
+            <mxPoint x="110" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-43" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="720" as="sourcePoint" />
+            <mxPoint x="170" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-44" value="" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;entryX=0.458;entryY=0.219;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TH_UqD1B5SsVqjHKoMvo-24" target="TH_UqD1B5SsVqjHKoMvo-28">
+          <mxGeometry x="0.3659" y="-51" relative="1" as="geometry">
+            <mxPoint x="300" y="280" as="sourcePoint" />
+            <mxPoint x="180" y="229.99999999999994" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;اتمام عملية التحقق من هوية&lt;br&gt;&amp;nbsp;المستفيد واعادة توجيهه&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-46" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="TH_UqD1B5SsVqjHKoMvo-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="586" y="774" as="sourcePoint" />
+            <mxPoint x="768" y="238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-47" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;اختيار &quot;طلباتي&quot;وقبول طلب المبايعه&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="154" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
