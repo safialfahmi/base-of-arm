@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-14T07:17:06.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Bkhr7KbXfcJ78gUrY54u" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T07:25:52.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4ab1OK7AoXRF2MBZktPe" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,14 +7,14 @@
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="تطبيق نفاذ" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=17;fillColor=#9CD67A;strokeColor=#82b366;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="120" y="80" width="100" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="CX87K9zdrq5-dQ2Ox07L-45" value="ادخال الرمز الشخصي “pin” " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.5;entryY=0.748;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" edge="1" target="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="CX87K9zdrq5-dQ2Ox07L-45" value="ادخال الرمز الشخصي “pin” " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.5;entryY=0.748;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-1" edge="1">
           <mxGeometry x="-0.5" y="-4" relative="1" as="geometry">
             <mxPoint x="450" y="494" as="sourcePoint" />
             <mxPoint x="50.00076923076929" y="460.0000000000001" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f84CHUhBpUdScy8MXOFQ-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
+        <mxCell id="f84CHUhBpUdScy8MXOFQ-4" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" parent="3nuBFxr9cyL0pnOWT2aG-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-20" y="600" as="sourcePoint" />
             <mxPoint x="40" y="600" as="targetPoint" />
@@ -23,7 +23,7 @@
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="ناجز" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#000099;fontSize=17;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="300" y="80" width="100" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="f84CHUhBpUdScy8MXOFQ-3" value="قبول الطلب" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=16;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="f84CHUhBpUdScy8MXOFQ-3" value="قبول الطلب" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=16;" parent="3nuBFxr9cyL0pnOWT2aG-5" edge="1">
           <mxGeometry x="-0.499" relative="1" as="geometry">
             <mxPoint x="270.27" y="340.0000000000001" as="sourcePoint" />
             <mxPoint x="-129.99923076923073" y="340.0000000000001" as="targetPoint" />
@@ -78,8 +78,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CX87K9zdrq5-dQ2Ox07L-44" value="ارسال طلب افراغ عقاري" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;" parent="1" edge="1">
-          <mxGeometry x="-0.5" y="10" relative="1" as="geometry">
+        <mxCell id="CX87K9zdrq5-dQ2Ox07L-44" value="&quot;عرض رسالة &quot;طلب افراغ عقاري " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;" parent="1" edge="1">
+          <mxGeometry x="-0.55" y="10" relative="1" as="geometry">
             <mxPoint x="170" y="370" as="sourcePoint" />
             <mxPoint x="570" y="370" as="targetPoint" />
             <mxPoint as="offset" />
@@ -103,7 +103,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CX87K9zdrq5-dQ2Ox07L-49" value="اتمام عملية التحقق وارسال الطلب" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.53;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-1" edge="1" target="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="CX87K9zdrq5-dQ2Ox07L-49" value="اتمام عملية التحقق وارسال الطلب" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;exitX=0.53;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-5" edge="1">
           <mxGeometry x="-0.1396" relative="1" as="geometry">
             <mxPoint x="170" y="640" as="sourcePoint" />
             <mxPoint x="360" y="718" as="targetPoint" />
@@ -111,7 +111,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CX87K9zdrq5-dQ2Ox07L-50" value="اكمال اجراءات الافراغ العقاري " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1" target="3nuBFxr9cyL0pnOWT2aG-5">
+        <mxCell id="CX87K9zdrq5-dQ2Ox07L-50" value="اكمال اجراءات الافراغ العقاري " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;" parent="1" target="3nuBFxr9cyL0pnOWT2aG-5" edge="1">
           <mxGeometry x="0.0907" y="-2" relative="1" as="geometry">
             <mxPoint x="570" y="753" as="sourcePoint" />
             <mxPoint x="350" y="800" as="targetPoint" />
@@ -126,13 +126,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f84CHUhBpUdScy8MXOFQ-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1">
+        <mxCell id="f84CHUhBpUdScy8MXOFQ-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="680" as="sourcePoint" />
             <mxPoint x="100" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f84CHUhBpUdScy8MXOFQ-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1">
+        <mxCell id="f84CHUhBpUdScy8MXOFQ-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#FFFFFF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="710" as="sourcePoint" />
             <mxPoint x="160" y="710" as="targetPoint" />
