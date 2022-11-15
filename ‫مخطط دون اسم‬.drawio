@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T07:25:52.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4ab1OK7AoXRF2MBZktPe" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T07:39:32.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="jtTMl4wVPoXvnn0sVRXw" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="تطبيق نفاذ" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=17;fillColor=#9CD67A;strokeColor=#82b366;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="120" y="80" width="100" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="CX87K9zdrq5-dQ2Ox07L-45" value="ادخال الرمز الشخصي “pin” " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.5;entryY=0.748;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-1" edge="1">
+        <mxCell id="CX87K9zdrq5-dQ2Ox07L-45" value="(pin) ادخال الرمز الشخصي " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.5;entryY=0.748;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-1" edge="1">
           <mxGeometry x="-0.5" y="-4" relative="1" as="geometry">
             <mxPoint x="450" y="494" as="sourcePoint" />
             <mxPoint x="50.00076923076929" y="460.0000000000001" as="targetPoint" />
@@ -78,7 +78,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CX87K9zdrq5-dQ2Ox07L-44" value="&quot;عرض رسالة &quot;طلب افراغ عقاري " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=15;" parent="1" edge="1">
+        <mxCell id="CX87K9zdrq5-dQ2Ox07L-44" value="&quot;عرض رسالة &quot;لديك طلب افراغ عقاري " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;" parent="1" edge="1">
           <mxGeometry x="-0.55" y="10" relative="1" as="geometry">
             <mxPoint x="170" y="370" as="sourcePoint" />
             <mxPoint x="570" y="370" as="targetPoint" />
