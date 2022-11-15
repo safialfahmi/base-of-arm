@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T12:37:38.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="z_YyjYe9Qd7IifQXKx8R" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T12:38:47.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JPC5mM0V3fpohdbxN_z4" version="20.5.3" type="github">
   <diagram id="41JvZKETDgODBDWOF_u7" name="Page-1">
     <mxGraphModel dx="723" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TH_UqD1B5SsVqjHKoMvo-36" value="عرض رسالة&#xa;&quot; لديك طلب افراغ عقاري + رقم العقار&quot;" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=12;" edge="1" parent="1">
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-36" value="عرض رسالة&#xa;&quot; لديك طلب امتلاك عقاري + رقم العقار&quot;" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=12;" edge="1" parent="1">
           <mxGeometry x="-0.55" y="10" relative="1" as="geometry">
             <mxPoint x="180" y="380" as="sourcePoint" />
             <mxPoint x="580" y="380" as="targetPoint" />
@@ -111,7 +111,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TH_UqD1B5SsVqjHKoMvo-40" value="اكمال اجراءات الافراغ العقاري " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" target="TH_UqD1B5SsVqjHKoMvo-28">
+        <mxCell id="TH_UqD1B5SsVqjHKoMvo-40" value="اكمال اجراءات الامتلاك العقاري " style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" target="TH_UqD1B5SsVqjHKoMvo-28">
           <mxGeometry x="0.0907" y="-2" relative="1" as="geometry">
             <mxPoint x="580" y="763" as="sourcePoint" />
             <mxPoint x="360" y="810" as="targetPoint" />
